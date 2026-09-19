@@ -7,6 +7,8 @@ Four tickets from the bank. Your job: decide which ones are actually in scope fo
 **TICKET A** — Priority: High — Filed by: Contact Center Operations
 > Tier-1 phone support reps spend roughly 10 minutes per call manually looking up account balances and transaction history in the legacy system. This is driving up average handle time and hold-queue length. We need faster access to this data during live calls.
 
+
+
 ---
 
 **TICKET B** — Priority: High — Filed by: Fraud & Security
